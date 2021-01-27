@@ -6,7 +6,7 @@ Pode ser acessada através do link: https://testeapi20210126214541.azurewebsites
 
 # Testes
 
-(https://i.imgur.com/ciQx0B5.gif)
+https://i.imgur.com/ciQx0B5.gif
 
 # Json Final
 
