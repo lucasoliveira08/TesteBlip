@@ -6,6 +6,8 @@ Pode ser acessada através do link: https://testeapi20210126214541.azurewebsites
 
 # Testes
 
+Pode ser acessado através do link abaixo ou pelo arquivo blip.gif na raiz do projeto.
+
 https://i.imgur.com/ciQx0B5.gif
 
 # Json Final
